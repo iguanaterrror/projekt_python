@@ -7,4 +7,4 @@ Program rejestruje obraz kamery komputera, rozpoznając grę w warcaby. Aplikacj
 Obraz pokazywany na ekranie aktualizuje się za pomocą spacji, zaś za pomocą klawisza ESC program się wyłącza.
 
 Aby włączyć aplikację, należy uruchomić plik:
->main.py
+>python3 main.py
